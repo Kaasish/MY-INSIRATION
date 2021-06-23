@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color: goldenrod;
+}
+
+h2 {
+    text-align: center;
+    font-family: cursive;
+    color: goldenrod;
+}
+
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    height: 650px;
+    width: 500px;
+    background-color: goldenrod;
+
+}
+
+img:hover {
+    transform: scale(0.9);
+}
